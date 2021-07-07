@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/prkedia81/stat-preview-card-frontend-mentor]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://prkedia81.github.io/stat-preview-card-frontend-mentor/]
 
 ### Built with
 
